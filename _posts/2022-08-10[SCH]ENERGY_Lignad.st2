@@ -1,0 +1,122 @@
+Keywords = [
+	{InteractionEnergy= {
+		ASL1 = "((chain.name A)) AND (res.num 501)"
+		ASL2 = "((chain.name A)) AND (res.num 292)"
+		Name = Unnamed
+		Type = Total
+		Unit = KCal/Mol
+		}
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 296)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+        }
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 355)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 359)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 396)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 397)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 398)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 399)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 400)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 401)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 402)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 403)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 404)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 405)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+        {InteractionEnergy= {
+                ASL1 = "((chain.name A)) AND (res.num 501)"
+                ASL2 = "((chain.name A)) AND (res.num 406)"
+                Name = Unnamed
+                Type = Total
+                Unit = KCal/Mol
+                }
+	}
+]
